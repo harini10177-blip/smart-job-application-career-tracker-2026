@@ -1,9 +1,0 @@
-job_id,job_title,company,location,skills,salary
-J001,Data Analyst,ABC Technologies,Chennai,Python SQL Excel,450000
-J002,Python Developer,Tech Solutions,Chennai,Python OOP SQL,500000
-J003,Business Analyst,Infosys,Chennai,SQL Excel Communication,550000
-J004,HR Executive,People Corp,Chennai,Excel Communication HR,400000
-J005,Data Scientist,DataWorks,Bangalore,Python SQL Machine Learning,700000
-J006,Software Engineer,TechWorld,Chennai,Python Java SQL,600000
-J007,Process Associate,Global Services,Chennai,Excel Communication,350000
-J008,Junior Data Analyst,Analytics Hub,Bangalore,Python Excel SQL,480000
