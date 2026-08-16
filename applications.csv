@@ -1,9 +1,0 @@
-application_id,job_id,applicant_name,status,match_percentage
-A001,J001,Harini,Applied,0.00%
-A002,J003,Harini,Interview,0.00%
-A003,J007,Harini,Applied,0.00%
-A004,J001,Harini,Interview,0.00%
-A005,J001,Harini,Applied,0.00%
-A006,J001,Harini,Applied,66.67%
-A007,J001,Harini,Interview,66.67%
-A008,J001,Harini,Interview,100.00%
